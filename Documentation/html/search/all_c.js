@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['price_0',['price',['../struct_product.html#aef7c2446a93a7dc07f65981daf37fa65',1,'Product']]],
+  ['printclientinfo_1',['printClientInfo',['../clients_8c.html#ade3f8f8038a34cacf6dcf26e10caf81f',1,'printClientInfo(const Client *ptr_client):&#160;clients.c'],['../clients_8h.html#ade3f8f8038a34cacf6dcf26e10caf81f',1,'printClientInfo(const Client *ptr_client):&#160;clients.c']]],
+  ['printmaterials_2',['printMaterials',['../materials_8c.html#a63ba3c9d929f839060936e6da7129bbf',1,'printMaterials(const Material *material):&#160;materials.c'],['../materials_8h.html#a63ba3c9d929f839060936e6da7129bbf',1,'printMaterials(const Material *material):&#160;materials.c']]],
+  ['printorder_3',['printOrder',['../orders_8c.html#a3b33a4c131a4e0acc7cd65c891a64516',1,'printOrder(Order *ptr_Order):&#160;orders.c'],['../orders_8h.html#a3b33a4c131a4e0acc7cd65c891a64516',1,'printOrder(Order *ptr_Order):&#160;orders.c']]],
+  ['printproducts_4',['printProducts',['../products_8c.html#a1281ea5a37976297554ac07f15481cad',1,'printProducts(const Product *ptr_Product):&#160;products.c'],['../products_8h.html#a1281ea5a37976297554ac07f15481cad',1,'printProducts(const Product *ptr_Product):&#160;products.c']]],
+  ['product_5',['Product',['../struct_product.html',1,'']]],
+  ['product_6',['product',['../struct_products_array.html#ac2d6d83d4fb29fc653ce92da4bb9e677',1,'ProductsArray']]],
+  ['product_5fremoved_7',['PRODUCT_REMOVED',['../utilities_8h.html#a77200ae838a799be0255e72f4ecdbd22',1,'utilities.h']]],
+  ['productinorder_8',['ProductInOrder',['../struct_product_in_order.html',1,'']]],
+  ['productinorder_9',['productInOrder',['../struct_order_products_array.html#adae2d2c0bc66c9fe9cada8d8e1cc1c65',1,'OrderProductsArray']]],
+  ['production_2ec_10',['production.c',['../production_8c.html',1,'']]],
+  ['production_2eh_11',['production.h',['../production_8h.html',1,'']]],
+  ['productionmanagement_12',['productionManagement',['../menus_8c.html#a6b2575b888738799678b0fcdbc926fdd',1,'productionManagement(MaterialsArray *ptr_MaterialsArray, OrdersArray *ptr_OrdersArray, ProductsArray *ptr_ProductsArray):&#160;menus.c'],['../menus_8h.html#a6b2575b888738799678b0fcdbc926fdd',1,'productionManagement(MaterialsArray *ptr_MaterialsArray, OrdersArray *ptr_OrdersArray, ProductsArray *ptr_ProductsArray):&#160;menus.c']]],
+  ['productmanagement_13',['productManagement',['../menus_8c.html#ae88cf2cf3b86b44f698b96f9e33b402d',1,'productManagement(ProductsArray *ptr_ProductsArray, MaterialsArray *ptr_MaterialsArray, ProductMaterialsArray *ptr_ProductMaterialsArray):&#160;menus.c'],['../menus_8h.html#ae88cf2cf3b86b44f698b96f9e33b402d',1,'productManagement(ProductsArray *ptr_ProductsArray, MaterialsArray *ptr_MaterialsArray, ProductMaterialsArray *ptr_ProductMaterialsArray):&#160;menus.c']]],
+  ['productmaterialsarray_14',['ProductMaterialsArray',['../struct_product_materials_array.html',1,'']]],
+  ['productmaterialsarray_15',['productMaterialsArray',['../struct_product.html#a72221c24cde284e061727ab810da0ce4',1,'Product']]],
+  ['products_2ec_16',['products.c',['../products_8c.html',1,'']]],
+  ['products_2eh_17',['products.h',['../products_8h.html',1,'']]],
+  ['products_5fin_5forder_2ec_18',['products_in_order.c',['../products__in__order_8c.html',1,'']]],
+  ['products_5fin_5forder_2eh_19',['products_in_order.h',['../products__in__order_8h.html',1,'']]],
+  ['productsarray_20',['ProductsArray',['../struct_products_array.html',1,'']]],
+  ['productslistcanceled_21',['productsListCanceled',['../products_8c.html#a15d28509b2735564a96ca9df3ad41ce2',1,'productsListCanceled(ProductsArray *ptr_ProductsArray):&#160;products.c'],['../products_8h.html#a15d28509b2735564a96ca9df3ad41ce2',1,'productsListCanceled(ProductsArray *ptr_ProductsArray):&#160;products.c']]],
+  ['producttotal_22',['productTotal',['../struct_product_in_order.html#aed19fe640f018d5769234593d03838ec',1,'ProductInOrder']]]
+];

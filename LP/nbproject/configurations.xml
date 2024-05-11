@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>clients.h</itemPath>
+      <itemPath>files.h</itemPath>
+      <itemPath>materials.h</itemPath>
+      <itemPath>materials_in_product.h</itemPath>
+      <itemPath>menus.h</itemPath>
+      <itemPath>menus_text.h</itemPath>
+      <itemPath>orders.h</itemPath>
+      <itemPath>production.h</itemPath>
+      <itemPath>products.h</itemPath>
+      <itemPath>products_in_order.h</itemPath>
+      <itemPath>utilities.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+      <itemPath>materiais.csv</itemPath>
+      <itemPath>produtos.csv</itemPath>
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>clients.c</itemPath>
+      <itemPath>files.c</itemPath>
+      <itemPath>main.c</itemPath>
+      <itemPath>materials.c</itemPath>
+      <itemPath>materials_in_product.c</itemPath>
+      <itemPath>menus.c</itemPath>
+      <itemPath>orders.c</itemPath>
+      <itemPath>production.c</itemPath>
+      <itemPath>products.c</itemPath>
+      <itemPath>products_in_order.c</itemPath>
+      <itemPath>utilities.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>../../../../LP_G14/csv</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="clients.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="clients.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="files.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="files.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="materiais.csv" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="materials.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="materials.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="materials_in_product.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="materials_in_product.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="menus.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="menus.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="menus_text.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="orders.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="orders.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="production.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="production.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="products.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="products.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="products_in_order.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="products_in_order.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="produtos.csv" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="utilities.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="utilities.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="clients.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="clients.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="files.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="files.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="materiais.csv" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="materials.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="materials.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="materials_in_product.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="materials_in_product.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="menus.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="menus.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="menus_text.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="orders.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="orders.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="production.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="production.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="products.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="products.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="products_in_order.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="products_in_order.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="produtos.csv" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="utilities.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="utilities.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

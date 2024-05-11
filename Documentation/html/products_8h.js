@@ -1,0 +1,25 @@
+var products_8h =
+[
+    [ "Product", "struct_product.html", "struct_product" ],
+    [ "ProductsArray", "struct_products_array.html", "struct_products_array" ],
+    [ "addMaterialsToProduct", "products_8h.html#a41a5a70e5585c2818081cd5be171fd4b", null ],
+    [ "addProduct", "products_8h.html#a70b622cf336d7ee1475582e1a6279d6c", null ],
+    [ "allocMemoryProductMaterials", "products_8h.html#a8c33246d8ba740a2eb5132021ec9c82e", null ],
+    [ "allocMemoryProducts", "products_8h.html#aec97f9668838e4370cd3d3c85c189c1f", null ],
+    [ "expandProductMaterialsArray", "products_8h.html#a7f3c517d40f24f06e2119df74dad4e02", null ],
+    [ "expandProductsArray", "products_8h.html#aaf770656c1120a3470c3dc45d8519f20", null ],
+    [ "exportProducts", "products_8h.html#a3446a7c66bb15d13284d30dfb937b229", null ],
+    [ "findProductByCode", "products_8h.html#a5a909c2216564f1fc12e6560561d6fb9", null ],
+    [ "freeMemoryProductMaterials", "products_8h.html#a0066cc007b78f390f4ef23a6f1e8109e", null ],
+    [ "freeMemoryProducts", "products_8h.html#a88606683692ae6348b66dfc2c6a6cf98", null ],
+    [ "importProductMaterials", "products_8h.html#a92ccf175b5068804324aecf37a69e657", null ],
+    [ "importProducts", "products_8h.html#a473c76d1931b0add91b2fd172dff6819", null ],
+    [ "listProducts", "products_8h.html#a232070676d6112bad5584b4e0b62c39e", null ],
+    [ "printProducts", "products_8h.html#a1281ea5a37976297554ac07f15481cad", null ],
+    [ "productsListCanceled", "products_8h.html#a15d28509b2735564a96ca9df3ad41ce2", null ],
+    [ "readFile", "products_8h.html#a2846dfd38af542b479fb572c828ac041", null ],
+    [ "readMaterialsToProduct", "products_8h.html#a05a3d77cc1adcbff9e1d249f7437a6e7", null ],
+    [ "readProduct", "products_8h.html#a420cb013e7c0a97452e31e822db58fdc", null ],
+    [ "removeProduct", "products_8h.html#ac85e1660d56c30a0cf704283e1f00815", null ],
+    [ "updateProduct", "products_8h.html#aff832b07e2fb831ca233f08bd3123114", null ]
+];
